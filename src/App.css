@@ -1,22 +1,27 @@
+@font-face {
+  font-family: 'Cursive';
+  src: local('Cursive'), url(./assets/fonts/GreatVibes-Regular.ttf) format('truetype');
+}
+
 .App {
   text-align: center;
   min-height: 100%;
+  background-color: #db7f67;
 }
 
 .App-logo {
-  height: 4vmin;
+  height: 40vmin;
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Title-Font {
+  font-size: 3.5em; 
+  font-family: 'Cursive';
 }
 
 .App-header {
-  background-color: #628395;
-  min-height: 4vh;
+  background-color: #db7f67;
+  min-height: 40vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,8 +31,8 @@
 }
 
 .App-body {
-  background-color: #96897B;
-  min-height: 90vh;
+  background-color: #db7f67;
+  min-height: 40vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -40,11 +45,29 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Us-Photo {
+  border-radius: 2em;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.navbar {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.7rem 2rem;
+  overflow: hidden;
+  z-index: 1;
+  width: 88.15%;
+  margin: auto;
+  top: 0;
+  border-bottom: solid 1px var(--primary-color);
+  opacity: 0.9;
+  top: 0;
+  box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8),
+    -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+  box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white,
+    12px 0 15px -4px rgba(31, 73, 125, 0.8),
+    -12px 0 15px -4px rgba(31, 73, 125, 0.8);
 }
