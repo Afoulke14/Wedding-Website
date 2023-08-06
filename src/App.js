@@ -1,4 +1,4 @@
-import logo from './assets/rings-icon-removebg-preview.png';
+import logo from './assets/AC-Logo.png';
 import us from './assets/US.jpg';
 import './App.css';
 import React, { Component } from 'react';
@@ -10,13 +10,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <div className='Title-Font'> Adam and Cassie </div>
+        <div className='Header-Font Cursvie-Font'> AJ & Cassie</div>
+        <div className='Subheader-Small-Font Aerotis-Font mb-5'> October 19, 2024 </div>
+        <div className='d-flex flex-row justify-content-between mb-5 w-65'>
+          <div class="p-2">Venue</div>
+          <div class="p-2">Travel</div>
+          <div class="p-2">Wedding Party</div>
+          <div class="p-2">Gallery</div>
+          <div class="p-2">Registry</div>
+        </div> 
       </header>
       <div className="App-body">
-        <div className="box m-5">
-        A Story about us. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras bibendum, tellus et venenatis porta, leo tortor semper libero, eget cursus sapien purus quis lorem. Maecenas tincidunt diam id nibh facilisis sodales. Fusce efficitur orci vitae pellentesque scelerisque. Phasellus aliquam pharetra volutpat. In hac habitasse platea dictumst. Cras ut turpis ex. Duis eleifend venenatis magna non vehicula. Etiam porttitor orci sed quam tempor, eget facilisis tortor mollis. Donec auctor, lorem in facilisis porta, mi felis tincidunt ipsum, a ornare purus turpis sit amet nisi. Ut accumsan tincidunt pulvinar. Sed quis dapibus quam, ullamcorper mattis nisi. Fusce sapien velit, mollis nec enim vitae, commodo dapibus nisl. Nunc vel arcu quis sapien dapibus bibendum. Aliquam sit amet cursus risus. Vivamus sit amet dictum nunc, a iaculis ligula. Etiam bibendum luctus turpis pulvinar mattis.      
-        </div>
-        <div className="box m-3">
+        <div className="box m-3 w-100">
           <img src={us} className="Us-Photo" alt="logo" />
         </div>
       </div>

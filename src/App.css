@@ -3,10 +3,28 @@
   src: local('Cursive'), url(./assets/fonts/GreatVibes-Regular.ttf) format('truetype');
 }
 
+@font-face {
+  font-family: 'Aerotis';
+  src: local('Aerotis'), url(./assets/fonts/Aerotis.ttf) format('truetype');
+}
+
+.w-65 {
+  width: 65%;
+}
+
 .App {
   text-align: center;
   min-height: 100%;
   background-color: #db7f67;
+  height: 100vh;
+}
+
+.Aerotis-Font {
+  font-family: 'Aerotis';
+}
+
+.Cursvie-Font {
+  font-family: 'Cursvie';
 }
 
 .App-logo {
@@ -14,9 +32,17 @@
   pointer-events: none;
 }
 
-.Title-Font {
+.Header-Font {
+  font-size: 5.5em; 
+}
+
+.Subheader-Font {
   font-size: 3.5em; 
   font-family: 'Cursive';
+}
+
+.Subheader-Small-Font {
+  font-size: 2em; 
 }
 
 .App-header {
@@ -46,9 +72,10 @@
 }
 
 .Us-Photo {
-  border-radius: 2em;
-  height: 40vmin;
   pointer-events: none;
+  width: 100%;
+  object-fit: cover;
+  height: 80vmin;
 }
 
 .navbar {
