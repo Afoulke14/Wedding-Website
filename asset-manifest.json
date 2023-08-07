@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Wedding-Website/static/css/main.b77a3e3f.css",
-    "main.js": "/Wedding-Website/static/js/main.b7236df2.js",
-    "static/js/787.4ff3cea1.chunk.js": "/Wedding-Website/static/js/787.4ff3cea1.chunk.js",
-    "static/media/yara.jpg": "/Wedding-Website/static/media/yara.be39654141289b49801a.jpg",
-    "static/media/US.jpg": "/Wedding-Website/static/media/US.a3d6422d49396ba85637.jpg",
-    "static/media/GreatVibes-Regular.ttf": "/Wedding-Website/static/media/GreatVibes-Regular.9f3b78d95140c3425300.ttf",
-    "static/media/rings-icon-removebg-preview.png": "/Wedding-Website/static/media/rings-icon-removebg-preview.96290c6944d7a800f5a7.png",
-    "index.html": "/Wedding-Website/index.html",
-    "main.b77a3e3f.css.map": "/Wedding-Website/static/css/main.b77a3e3f.css.map",
-    "main.b7236df2.js.map": "/Wedding-Website/static/js/main.b7236df2.js.map",
-    "787.4ff3cea1.chunk.js.map": "/Wedding-Website/static/js/787.4ff3cea1.chunk.js.map"
+    "main.css": "/static/css/main.2290688e.css",
+    "main.js": "/static/js/main.6c39957f.js",
+    "static/js/787.4ff3cea1.chunk.js": "/static/js/787.4ff3cea1.chunk.js",
+    "static/media/yara.jpg": "/static/media/yara.be39654141289b49801a.jpg",
+    "static/media/US.jpg": "/static/media/US.a3d6422d49396ba85637.jpg",
+    "static/media/GreatVibes-Regular.ttf": "/static/media/GreatVibes-Regular.9f3b78d95140c3425300.ttf",
+    "static/media/Aerotis.ttf": "/static/media/Aerotis.47f8201260fe97f7aa0a.ttf",
+    "static/media/AC-Logo.png": "/static/media/AC-Logo.d2e77d39f1936f4cfbd5.png",
+    "index.html": "/index.html",
+    "main.2290688e.css.map": "/static/css/main.2290688e.css.map",
+    "main.6c39957f.js.map": "/static/js/main.6c39957f.js.map",
+    "787.4ff3cea1.chunk.js.map": "/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b77a3e3f.css",
-    "static/js/main.b7236df2.js"
+    "static/css/main.2290688e.css",
+    "static/js/main.6c39957f.js"
   ]
 }
