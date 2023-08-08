@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2290688e.css",
-    "main.js": "/static/js/main.6c39957f.js",
+    "main.css": "/static/css/main.44f6d722.css",
+    "main.js": "/static/js/main.172af5b7.js",
     "static/js/787.4ff3cea1.chunk.js": "/static/js/787.4ff3cea1.chunk.js",
-    "static/media/yara.jpg": "/static/media/yara.be39654141289b49801a.jpg",
     "static/media/US.jpg": "/static/media/US.a3d6422d49396ba85637.jpg",
     "static/media/GreatVibes-Regular.ttf": "/static/media/GreatVibes-Regular.9f3b78d95140c3425300.ttf",
     "static/media/Aerotis.ttf": "/static/media/Aerotis.47f8201260fe97f7aa0a.ttf",
     "static/media/AC-Logo.png": "/static/media/AC-Logo.d2e77d39f1936f4cfbd5.png",
     "index.html": "/index.html",
-    "main.2290688e.css.map": "/static/css/main.2290688e.css.map",
-    "main.6c39957f.js.map": "/static/js/main.6c39957f.js.map",
+    "main.44f6d722.css.map": "/static/css/main.44f6d722.css.map",
+    "main.172af5b7.js.map": "/static/js/main.172af5b7.js.map",
     "787.4ff3cea1.chunk.js.map": "/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2290688e.css",
-    "static/js/main.6c39957f.js"
+    "static/css/main.44f6d722.css",
+    "static/js/main.172af5b7.js"
   ]
 }
