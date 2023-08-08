@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.44f6d722.css",
-    "main.js": "/static/js/main.172af5b7.js",
+    "main.js": "/static/js/main.e615549c.js",
     "static/js/787.4ff3cea1.chunk.js": "/static/js/787.4ff3cea1.chunk.js",
     "static/media/US.jpg": "/static/media/US.a3d6422d49396ba85637.jpg",
     "static/media/GreatVibes-Regular.ttf": "/static/media/GreatVibes-Regular.9f3b78d95140c3425300.ttf",
@@ -9,11 +9,11 @@
     "static/media/AC-Logo.png": "/static/media/AC-Logo.d2e77d39f1936f4cfbd5.png",
     "index.html": "/index.html",
     "main.44f6d722.css.map": "/static/css/main.44f6d722.css.map",
-    "main.172af5b7.js.map": "/static/js/main.172af5b7.js.map",
+    "main.e615549c.js.map": "/static/js/main.e615549c.js.map",
     "787.4ff3cea1.chunk.js.map": "/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f6d722.css",
-    "static/js/main.172af5b7.js"
+    "static/js/main.e615549c.js"
   ]
 }
