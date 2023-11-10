@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e84e43c.css",
-    "main.js": "/static/js/main.7693652f.js",
+    "main.css": "/static/css/main.84f54d5f.css",
+    "main.js": "/static/js/main.5ff8c88a.js",
     "static/js/787.4ff3cea1.chunk.js": "/static/js/787.4ff3cea1.chunk.js",
-    "static/media/US_2.JPG": "/static/media/US_2.2fafbd337f7b07f76ef6.JPG",
+    "static/media/landing.JPG": "/static/media/landing.82058318fdd4953910de.JPG",
     "static/media/kyra.png": "/static/media/kyra.096fee4e6b5958e523cc.png",
     "static/media/2021_3.jpeg": "/static/media/2021_3.234f9297bed664e9d5fd.jpeg",
     "static/media/2015_1.jpg": "/static/media/2015_1.b10d5825c798802c91d6.jpg",
@@ -25,10 +25,14 @@
     "static/media/sm-inn.jpg": "/static/media/sm-inn.0adde6a89fd845c3306a.jpg",
     "static/media/2017_3.jpg": "/static/media/2017_3.4de1e41310fbd6c83009.jpg",
     "static/media/will.JPG": "/static/media/will.25848121dc0d00e47c81.JPG",
+    "static/media/dresses_4.jpg": "/static/media/dresses_4.f7f13be574172397539e.jpg",
+    "static/media/dresses_3.jpg": "/static/media/dresses_3.8eec4ed4b25c0ffe8ac7.jpg",
     "static/media/2015_3.jpg": "/static/media/2015_3.81649eee9c5c995fda6d.jpg",
     "static/media/2021_2.jpg": "/static/media/2021_2.f76f17e1d0e152eee1db.jpg",
     "static/media/2015_2.jpg": "/static/media/2015_2.46d139d25d81023da8cd.jpg",
     "static/media/gray.jpeg": "/static/media/gray.b66e04fbb1cce5214715.jpeg",
+    "static/media/dresses_1.jpg": "/static/media/dresses_1.e83a4121c042d6c0729a.jpg",
+    "static/media/dresses_2.jpg": "/static/media/dresses_2.b56e896072db5cab3d0a.jpg",
     "static/media/2021_1.jpg": "/static/media/2021_1.e0124e5b0aa484f80a55.jpg",
     "static/media/jj.jpg": "/static/media/jj.b604726cec6e772530d6.jpg",
     "static/media/2018_1.jpg": "/static/media/2018_1.a2d37ecfe170d07f5223.jpg",
@@ -48,12 +52,12 @@
     "static/media/AC-Logo.png": "/static/media/AC-Logo.d2e77d39f1936f4cfbd5.png",
     "static/media/colleen.jpeg": "/static/media/colleen.dfb0e65cfb9a92562c5b.jpeg",
     "index.html": "/index.html",
-    "main.9e84e43c.css.map": "/static/css/main.9e84e43c.css.map",
-    "main.7693652f.js.map": "/static/js/main.7693652f.js.map",
+    "main.84f54d5f.css.map": "/static/css/main.84f54d5f.css.map",
+    "main.5ff8c88a.js.map": "/static/js/main.5ff8c88a.js.map",
     "787.4ff3cea1.chunk.js.map": "/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e84e43c.css",
-    "static/js/main.7693652f.js"
+    "static/css/main.84f54d5f.css",
+    "static/js/main.5ff8c88a.js"
   ]
 }
