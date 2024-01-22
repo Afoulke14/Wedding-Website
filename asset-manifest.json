@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.723bc583.css",
-    "main.js": "/static/js/main.f4a20957.js",
+    "main.js": "/static/js/main.6295de6f.js",
     "static/js/787.4ff3cea1.chunk.js": "/static/js/787.4ff3cea1.chunk.js",
     "static/media/landing.JPG": "/static/media/landing.82058318fdd4953910de.JPG",
     "static/media/kyra.png": "/static/media/kyra.096fee4e6b5958e523cc.png",
     "static/media/2021_3.jpeg": "/static/media/2021_3.234f9297bed664e9d5fd.jpeg",
     "static/media/2015_1.jpg": "/static/media/2015_1.b10d5825c798802c91d6.jpg",
     "static/media/2022_2.jpg": "/static/media/2022_2.932812b7689362665d17.jpg",
-    "static/media/sam.png": "/static/media/sam.7bb9c702a4c64d95bae5.png",
     "static/media/2022_3.jpg": "/static/media/2022_3.69f81b09783a5fea6152.jpg",
     "static/media/2019_2.jpeg": "/static/media/2019_2.9f29987ee2fa3e47b30e.jpeg",
     "static/media/2020_1.jpeg": "/static/media/2020_1.d37f868b2a5133c27a92.jpeg",
@@ -24,6 +23,7 @@
     "static/media/2017_3.jpg": "/static/media/2017_3.4de1e41310fbd6c83009.jpg",
     "static/media/will.JPG": "/static/media/will.25848121dc0d00e47c81.JPG",
     "static/media/dresses_4.jpg": "/static/media/dresses_4.f7f13be574172397539e.jpg",
+    "static/media/sam_2.jpg": "/static/media/sam_2.1de7d446c4b55f8442e8.jpg",
     "static/media/dresses_3.jpg": "/static/media/dresses_3.8eec4ed4b25c0ffe8ac7.jpg",
     "static/media/2015_3.jpg": "/static/media/2015_3.81649eee9c5c995fda6d.jpg",
     "static/media/2021_2.jpg": "/static/media/2021_2.f76f17e1d0e152eee1db.jpg",
@@ -51,11 +51,11 @@
     "static/media/colleen.jpeg": "/static/media/colleen.dfb0e65cfb9a92562c5b.jpeg",
     "index.html": "/index.html",
     "main.723bc583.css.map": "/static/css/main.723bc583.css.map",
-    "main.f4a20957.js.map": "/static/js/main.f4a20957.js.map",
+    "main.6295de6f.js.map": "/static/js/main.6295de6f.js.map",
     "787.4ff3cea1.chunk.js.map": "/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.723bc583.css",
-    "static/js/main.f4a20957.js"
+    "static/js/main.6295de6f.js"
   ]
 }
