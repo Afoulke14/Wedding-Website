@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.723bc583.css",
-    "main.js": "/static/js/main.caeb069e.js",
+    "main.js": "/static/js/main.93214ac5.js",
     "static/js/787.4ff3cea1.chunk.js": "/static/js/787.4ff3cea1.chunk.js",
     "static/media/landing.JPG": "/static/media/landing.82058318fdd4953910de.JPG",
     "static/media/kyra.png": "/static/media/kyra.096fee4e6b5958e523cc.png",
@@ -20,6 +20,7 @@
     "static/media/2020_3.jpg": "/static/media/2020_3.8aa5ee7cb71a4461fae5.jpg",
     "static/media/2019_3.jpg": "/static/media/2019_3.1a28ef3f33d90b60d5bb.jpg",
     "static/media/sm-inn.jpg": "/static/media/sm-inn.0adde6a89fd845c3306a.jpg",
+    "static/media/col_2.jpg": "/static/media/col_2.65171877405b0d6f9bb5.jpg",
     "static/media/2017_3.jpg": "/static/media/2017_3.4de1e41310fbd6c83009.jpg",
     "static/media/will.JPG": "/static/media/will.25848121dc0d00e47c81.JPG",
     "static/media/dresses_4.jpg": "/static/media/dresses_4.f7f13be574172397539e.jpg",
@@ -48,14 +49,13 @@
     "static/media/tyler.jpg": "/static/media/tyler.848f4eaa5aee7e67a980.jpg",
     "static/media/Aerotis.ttf": "/static/media/Aerotis.47f8201260fe97f7aa0a.ttf",
     "static/media/2018_3.jpg": "/static/media/2018_3.b7519bc64006513f559f.jpg",
-    "static/media/colleen.jpeg": "/static/media/colleen.dfb0e65cfb9a92562c5b.jpeg",
     "index.html": "/index.html",
     "main.723bc583.css.map": "/static/css/main.723bc583.css.map",
-    "main.caeb069e.js.map": "/static/js/main.caeb069e.js.map",
+    "main.93214ac5.js.map": "/static/js/main.93214ac5.js.map",
     "787.4ff3cea1.chunk.js.map": "/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.723bc583.css",
-    "static/js/main.caeb069e.js"
+    "static/js/main.93214ac5.js"
   ]
 }
