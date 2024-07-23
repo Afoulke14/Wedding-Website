@@ -1,11 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4e752f1.css",
-    "main.js": "/static/js/main.a2cc09f7.js",
+    "main.css": "/static/css/main.69459d69.css",
+    "main.js": "/static/js/main.d3ef1d73.js",
     "static/js/787.4ff3cea1.chunk.js": "/static/js/787.4ff3cea1.chunk.js",
+    "static/media/2024_3.jpg": "/static/media/2024_3.d09d72e880fab841fd98.jpg",
     "static/media/kyra.png": "/static/media/kyra.096fee4e6b5958e523cc.png",
     "static/media/landing_mobile.jpg": "/static/media/landing_mobile.d5b60643cd90b68e9b09.jpg",
+    "static/media/2023_2.jpeg": "/static/media/2023_2.a1124866e93cd05641db.jpeg",
+    "static/media/2023_3.jpeg": "/static/media/2023_3.aa2e3f07f15d8c383900.jpeg",
+    "static/media/2024_1.jpeg": "/static/media/2024_1.8119de01cd86f801d29d.jpeg",
     "static/media/landing_compress.webp": "/static/media/landing_compress.19d572f95ff74ce6c1e3.webp",
+    "static/media/2024_2.jpeg": "/static/media/2024_2.f6da59530d36f08ee628.jpeg",
     "static/media/2022_2(1).jpg": "/static/media/2022_2(1).073389cf38a75af551fd.jpg",
     "static/media/2021_3.jpg": "/static/media/2021_3.c9b47786a87be18b61a4.jpg",
     "static/media/2015_1.jpg": "/static/media/2015_1.99868e1d5b9493c2a7ef.jpg",
@@ -20,6 +25,7 @@
     "static/media/will.JPG": "/static/media/will.25848121dc0d00e47c81.JPG",
     "static/media/dresses_4.jpg": "/static/media/dresses_4.f7f13be574172397539e.jpg",
     "static/media/sam_2.jpg": "/static/media/sam_2.1de7d446c4b55f8442e8.jpg",
+    "static/media/2023_1.JPG": "/static/media/2023_1.a81188115f9e741cd0e3.JPG",
     "static/media/dresses_3.jpg": "/static/media/dresses_3.8eec4ed4b25c0ffe8ac7.jpg",
     "static/media/gray.jpeg": "/static/media/gray.b66e04fbb1cce5214715.jpeg",
     "static/media/dresses_1.jpg": "/static/media/dresses_1.e83a4121c042d6c0729a.jpg",
@@ -51,12 +57,12 @@
     "static/media/2018_2(1).jpg": "/static/media/2018_2(1).bd5fab3c71d6ac20d067.jpg",
     "static/media/2018_3(1).jpg": "/static/media/2018_3(1).b55570560f687049dc95.jpg",
     "index.html": "/index.html",
-    "main.e4e752f1.css.map": "/static/css/main.e4e752f1.css.map",
-    "main.a2cc09f7.js.map": "/static/js/main.a2cc09f7.js.map",
+    "main.69459d69.css.map": "/static/css/main.69459d69.css.map",
+    "main.d3ef1d73.js.map": "/static/js/main.d3ef1d73.js.map",
     "787.4ff3cea1.chunk.js.map": "/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4e752f1.css",
-    "static/js/main.a2cc09f7.js"
+    "static/css/main.69459d69.css",
+    "static/js/main.d3ef1d73.js"
   ]
 }
